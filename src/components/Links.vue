@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div>
+  <div class="bg-gray-900 text-white p-4">
     <a class="link" target="_blank" href="https://www.linkedin.com/in/firstname-lastname">LinkedIn</a>
     <a class="link" target="_blank" href="https://www.github.com/firstname-lastname">GitHub</a>
     <a class="link" target="_blank" href="https://www.twitter.com/firstname-lastname">Twitter</a>

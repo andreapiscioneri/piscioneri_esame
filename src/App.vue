@@ -4,6 +4,7 @@ import { ref, onMounted, provide } from 'vue';
 import Links from './components/Links.vue';
 import Footer from './components/Footer.vue';
 
+
 const loading = ref(true);
 const data = ref({});
 provide('data', data);
@@ -91,4 +92,11 @@ nav {
     }
   }
 }
+
+body {
+  background-color: #1a202c; /* bg-gray-900 */
+  color: white;
+}
+
+
 </style>
